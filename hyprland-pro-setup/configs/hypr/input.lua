@@ -12,6 +12,9 @@ hl.config({
         kb_options   = "grp:alt_shift_toggle",
         kb_rules     = "",
 
+        -- RAQAMLAR (NUMPAD): Har doim yoniq turishi
+        numlock_by_default = true,
+
         -- SICHQONCHA: Kursor qayerda bo'lsa, o'sha oyna aktivlashadi (1)
         follow_mouse = 1,
         sensitivity  = 0, -- Sezgirlik (0 = standart)
