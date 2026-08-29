@@ -1,0 +1,8 @@
+# Ignore all symlinks and local ML4W files
+*
+# But explicitly allow the following
+!hyprland-pro-setup/
+!hyprland-pro-setup/**
+!README.md
+!.gitignore
+!.git/
